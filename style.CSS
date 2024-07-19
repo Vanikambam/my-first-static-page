@@ -1,0 +1,86 @@
+.bg-container {
+    height: 100vh;
+    width: 95vw;
+    background-size: cover;
+    background-color: rgb(83, 81, 81);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.container {
+    height: 75vh;
+    width: 75vw;
+    background-color: black;
+    background-size: cover;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h1 {
+    color: aliceblue;
+    margin: 10px;
+    text-align: left;
+    font-size: 50px;
+    font-family: roboto;
+}
+
+.h2 {
+    color: aliceblue;
+    margin: 10px;
+    text-align: left;
+    font-size: 50px;
+    font-family: roboto;
+}
+
+.h3 {
+    color: aliceblue;
+    margin: 10px;
+    text-align: left;
+    font-size: 50px;
+    font-family: beer sherif;
+}
+
+.h4 {
+    color: rgb(77, 75, 75);
+    font-size: 20px;
+    font-family: roboto;
+    margin: 40px;
+}
+
+.Button {
+    font-size: 15px;
+    font-family: roboto;
+    color: azure;
+    background-color: black;
+    border-color: dimgray;
+    padding: 5px;
+    border-radius: 5px;
+    height: 40px;
+    width: 90px;
+    margin: 20px;
+}
+
+.photo {
+    height: 50vh;
+    width: 40vw;
+    text-align: right;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.para {
+    font-size: 20px;
+    font-family: roboto;
+    color: aliceblue;
+}
+
+.para1 {
+    font-size: 20px;
+    font-family: roboto;
+    color: aliceblue;
+    padding: 40px;
+}
